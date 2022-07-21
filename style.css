@@ -1,0 +1,83 @@
+body{
+   font-family: sans-serif;
+   margin: 0px;
+}
+.wellcome{
+    padding: 20px 80px;
+    background-image: url("images/top-banner.png");
+    display: flex;
+    background-repeat: no-repeat;
+}
+.para{
+    
+    color: rgba(0, 0, 0, 0.753);
+}
+.hireme{
+    text-decoration: none;
+    background-color: rgba(255, 99, 71, 0.938);
+    color: white;
+    border-radius: 5px;
+    padding: 10px 10px;
+}
+.hireme:hover{
+    background-color: black;
+}
+.rubel{
+    color: orange;
+}
+.wellcome2{
+    font-size: 45px;
+}
+.half{
+    width: 50%;
+    float: left;
+}
+.half img{
+    width: 100%;
+}
+.dreambig{
+    display: flex;
+}
+.text{
+    width: 100%;
+    margin-left: 400px;
+    margin-right: 10px;
+}
+.photo img{
+    width: 150%;
+    margin-left: 110px;
+}
+.experience{
+    display: flex;
+}
+.fullstack{
+    margin-left: 50px;
+    box-shadow: 10px 10px 40px black;
+    width: 100%;
+    border-radius: 5px;
+    padding-left: 30px;
+    border-left: 7px solid orange ;
+}
+.baby{
+    margin-right: 50px;
+    box-shadow: 10px 10px 40px black;
+    border-radius: 5px;
+    width: 100%;
+    padding-left: 30px;
+    margin-left: 50px;
+    height: 250px;
+    border-left: 7px solid rgba(0, 0, 255, 0.801);
+    
+}
+.baby2{
+    color: orange;
+}
+.experience{
+    padding: 1px 80px;
+    background-image: url("images/exp-bg.png");
+    background-repeat: no-repeat;
+}
+.footer{
+    text-align: center;
+    color: rgba(0, 0, 0, 0.719);
+}
